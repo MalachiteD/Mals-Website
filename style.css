@@ -1,0 +1,47 @@
+body{
+    background: linear-gradient(lightblue,cyan)
+    text-align center;
+}
+
+#myCarousel
+{
+background-color: lightblue
+}
+
+#myCarousel img
+{
+height: 300px;
+margin-top: 35px;
+}
+
+.carousel-inner p
+{
+margin-bottom: 15px;
+color: white;
+font-size: 20px
+}
+
+.travelMain img
+{
+    width: 100%;
+}
+
+.movie_head
+{
+    text-align: left;
+    padding: 6px 22px;
+    border-radius: 50px;
+    margin-bottom: 10px;
+}
+
+.movie_head i{
+    float: right;
+}
+
+.movie_text span{
+    color: orange;
+}
+
+.modal-body {
+    text-align: center;
+}
